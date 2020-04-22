@@ -1,0 +1,14 @@
+{
+  "name": "desktop_app",
+  "version": "1.0.0",
+  "description": "Shopping list Desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dikshant Niraula",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.2.3"
+  }
+}
